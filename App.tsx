@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-import FieldName from './assets/containers/nameForm';
+import FieldName from './containers/nameForm';
 
 export default function App() {
   return (
