@@ -26,9 +26,13 @@ const clearNameField = ():void =>{
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
+   flex:1,
+    
+    color:'#ffff',
+    backgroundColor: '#c1d6c0',
     alignItems: 'center',
     justifyContent: 'center',
   },
+ 
+
 });
